@@ -1,6 +1,9 @@
 # my backup files
 db_*.json
 
+# my notes
+README_.md
+
 # Logs
 logs
 *.log
