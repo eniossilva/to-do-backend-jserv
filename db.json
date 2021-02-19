@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "tarefa": "Fazer tarefa 1",
+      "executada": false
+    },
+    {
+      "id": 2,
+      "tarefa": "Fazer tarefa 2",
+      "executada": false
+    },
+    {
+      "id": 3,
+      "tarefa": "Fazer tarefa 3",
+      "executada": false
+    },
+    {
+      "id": 4,
+      "tarefa": "Fazer tarefa 4",
+      "executada": false
+    },
+    {
+      "id": 5,
+      "tarefa": "Fazer tarefa 5",
+      "executada": false
+    },
+    {
+      "id": 6,
+      "tarefa": "Fazer tarefa 6",
+      "executada": false
+    },
+    {
+      "id": 7,
+      "tarefa": "Fazer tarefa 7",
+      "executada": false
+    }
+  ]
+}
